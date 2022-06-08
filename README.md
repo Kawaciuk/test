@@ -1,2 +1,2 @@
 # index
-Hmepage with Pages Test
+Homepage with Pages Test
